@@ -15,7 +15,7 @@ E.g. [Goobert](https://backpackbattles.wiki.gg/wiki/Goobert) counts 5 item activ
 **Answer:** No. Any Max health increase is valid only for the round the effect triggered in.  
 
 ### Does stealing buffs count as gaining buffs?  
-E.g. [Squirrel](https://backpackbattles.wiki.gg/wiki/Squirrel) steals enemy buffs, while (Paradise Birb)[https://backpackbattles.wiki.gg/wiki/Paradise_Birb] has a chance of duplicating buffs an item gains.  
+E.g. [Squirrel](https://backpackbattles.wiki.gg/wiki/Squirrel) steals enemy buffs, while [Paradise Birb](https://backpackbattles.wiki.gg/wiki/Paradise_Birb) has a chance of duplicating buffs an item gains.  
 **Answer:** No. Interactions involving gaining buffs only occur if the item explicitly states ***gain*** *X buff*.  
 
 ### What does it mean when a crafting recipe has an item with a green background?  
