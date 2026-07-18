@@ -25,9 +25,15 @@ E.g. Crafting recipes for [Holdall](https://backpackbattles.wiki.gg/wiki/Holdall
 ### Does **On stun:** apply when I get stunned, or when the opponent gets stunned?  
 **Answer:** The effect triggers when *the opponent* gets stunned.  
 
+### If an effect states **30 buffs: do something** or similar, will that apply only at 30 buffs accumulated, or every 30 buffs?
+E.g. [Manathirst](https://backpackbattles.wiki.gg/wiki/Manathirst) states *30 mana: deal 10 magic damage*.
+**Answer:** The effect triggers *every* 30 buffs you gain. It can proc multiple times.
+
 ## Ranger  
+
 ### What happens if my critical hit chance exceeds 100%?  
 **Answer:** The critical hit chance is capped at 100%. In effect, items behave the same with e.g. 120% critical hit chance as they would with 100%.  
+
 
 ## Reaper 
 
